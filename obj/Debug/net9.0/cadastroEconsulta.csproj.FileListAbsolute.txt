@@ -1,0 +1,14 @@
+/Users/riwawa/RiderProjects/ConsoleApp2/cadastroEconsulta/bin/Debug/net9.0/cadastroEconsulta
+/Users/riwawa/RiderProjects/ConsoleApp2/cadastroEconsulta/bin/Debug/net9.0/cadastroEconsulta.deps.json
+/Users/riwawa/RiderProjects/ConsoleApp2/cadastroEconsulta/bin/Debug/net9.0/cadastroEconsulta.runtimeconfig.json
+/Users/riwawa/RiderProjects/ConsoleApp2/cadastroEconsulta/bin/Debug/net9.0/cadastroEconsulta.dll
+/Users/riwawa/RiderProjects/ConsoleApp2/cadastroEconsulta/bin/Debug/net9.0/cadastroEconsulta.pdb
+/Users/riwawa/RiderProjects/ConsoleApp2/cadastroEconsulta/obj/Debug/net9.0/cadastroEconsulta.GeneratedMSBuildEditorConfig.editorconfig
+/Users/riwawa/RiderProjects/ConsoleApp2/cadastroEconsulta/obj/Debug/net9.0/cadastroEconsulta.AssemblyInfoInputs.cache
+/Users/riwawa/RiderProjects/ConsoleApp2/cadastroEconsulta/obj/Debug/net9.0/cadastroEconsulta.AssemblyInfo.cs
+/Users/riwawa/RiderProjects/ConsoleApp2/cadastroEconsulta/obj/Debug/net9.0/cadastroEconsulta.csproj.CoreCompileInputs.cache
+/Users/riwawa/RiderProjects/ConsoleApp2/cadastroEconsulta/obj/Debug/net9.0/cadastroEconsulta.dll
+/Users/riwawa/RiderProjects/ConsoleApp2/cadastroEconsulta/obj/Debug/net9.0/refint/cadastroEconsulta.dll
+/Users/riwawa/RiderProjects/ConsoleApp2/cadastroEconsulta/obj/Debug/net9.0/cadastroEconsulta.pdb
+/Users/riwawa/RiderProjects/ConsoleApp2/cadastroEconsulta/obj/Debug/net9.0/cadastroEconsulta.genruntimeconfig.cache
+/Users/riwawa/RiderProjects/ConsoleApp2/cadastroEconsulta/obj/Debug/net9.0/ref/cadastroEconsulta.dll
